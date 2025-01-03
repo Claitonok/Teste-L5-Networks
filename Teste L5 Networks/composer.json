@@ -1,0 +1,10 @@
+{
+    "name": "clai-test.1/l5",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files": []
+    },
+    "require": {}
+}

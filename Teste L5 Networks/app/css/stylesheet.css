@@ -1,0 +1,79 @@
+* {
+    margin: 0%;
+}
+
+body {
+    background-color: rgb(30, 18, 141);
+}
+
+h2 {
+    /* nome title */
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+/* IAMGENS DO CATALOGO */
+#cabeca {
+    margin-top: 50px;
+    margin-left: 50%;
+}
+
+#cabeca1 {
+    margin-top: -971px;
+    margin-left: 30%;
+}
+
+b {
+    color: white;
+}
+
+
+/* ------------------------------------- */
+/* Final da pag */
+fieldset {
+    /* text-align: center; */
+    background-color: rgb(94, 94, 124);
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.RodaPe{
+    background-color: rgb(94, 94, 124);
+    height: 100px;
+}
+
+#rodape {
+    margin-left: 5%;
+}
+
+#rodape1 {
+    margin-left: 30%;
+    margin-top: -17px;
+}
+
+#rodape2 {
+    margin-left: 57%;
+    margin-top: -72px;
+}
+
+#rodape3 {
+    margin-left: 87%;
+    margin-top: -20px;
+    margin: 30px, 30px;
+}
+.ico{
+    margin-left: 30px;
+}
+.ico1{
+    margin-left: 17px;
+}
